@@ -8,7 +8,7 @@ sound signal and is interrupted by the operation of the program.
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
-![Screenshot (1)](https://github.com/tamaraatanasova/Show-Real-Time-8686/blob/main/1.1_image.png)
+![Screenshot (1)]()
 
 
 **Subject**
