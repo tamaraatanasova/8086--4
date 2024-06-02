@@ -8,7 +8,6 @@ sound signal and is interrupted by the operation of the program.
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
-![Screenshot (1)]()
 
 
 **Subject**
