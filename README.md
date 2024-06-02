@@ -6,7 +6,6 @@ entered. The comparison is done byte by byte and if the strings are different at
 sound signal and is interrupted by the operation of the program.
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
 
 
 
